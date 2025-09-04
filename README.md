@@ -1,1 +1,2 @@
 # Regression-based-Medical-Insurance-Cost-Prediction
+Preprocessed data and conducted Exploratory Data Analysis to understand key patterns and relationships in the dataset. Implemented multiple regression models, including Linear Regression, Ridge Regression, and Support Vector Regression(SVR), and Random Forest Regression. Evaluated model performance using RMSE, R² score, and cross-validation to ensure accuracy and reliability
